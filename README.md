@@ -1,5 +1,5 @@
 # nms_dashboard_img
-The images of the network monitoring system dashboard
+The dashboard of the network monitoring system
 
 # National Area
 ![](national.png)
